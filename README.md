@@ -1,9 +1,9 @@
 # menu-flex
 **this menu made by flex.**
 
-![viewfinal](https://s6.uupload.ir/files/screenshot_(2)_jwtv.png)
+![viewfinal](https://s6.uupload.ir/files/screenshot_(2)_zgrr.jpeg)
 
-![view final](https://s6.uupload.ir/files/screenshot_(3)_bbe1.png)
+![view final](https://s6.uupload.ir/files/screenshot_(3)_4we7.jpeg)
 
 - [Demo Project](https://haniehtahmaseb.github.io/menu-flex/project-flex.html)
 
