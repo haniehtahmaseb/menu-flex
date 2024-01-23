@@ -1,9 +1,8 @@
 # menu-flex
 **this menu made by flex.**
 
-![viewfinal](https://s6.uupload.ir/files/screenshot_(2)_zgrr.jpeg)
-
-![view final](https://s6.uupload.ir/files/screenshot_(3)_4we7.jpeg)
+![Screenshot (2)](https://github.com/haniehtahmaseb/menu-flex/assets/155815327/08003558-cd9f-4b60-9024-1c4ef605fbaf)
+![Screenshot (3)](https://github.com/haniehtahmaseb/menu-flex/assets/155815327/58715cad-b0e0-4ae6-9fdb-83e347c285cb)
 
 - [Demo Project](https://haniehtahmaseb.github.io/menu-flex/project-flex.html)
 
